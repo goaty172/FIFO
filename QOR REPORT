@@ -1,0 +1,48 @@
+****************************************
+Report : qor
+Design : fifo
+Version: O-2018.06-SP1
+Date   : Sat Jul 11 13:37:01 2026
+****************************************
+
+  Timing Path Group 'clk' (max_delay/setup)
+  ---------------------------------------------
+  Levels of Logic:                           13
+  Critical Path Length:                   10.19
+  Critical Path Slack:                     0.01
+  Total Negative Slack:                    0.00
+  No. of Violating Paths:                     0
+  ---------------------------------------------
+
+  Timing Path Group 'clk' (min_delay/hold)
+  ---------------------------------------------
+  Levels of Logic:                            3
+  Critical Path Length:                    2.11
+  Critical Path Slack:                     1.71
+  Total Negative Slack:                    0.00
+  No. of Violating Paths:                     0
+  ---------------------------------------------
+
+  Cell Count
+  ---------------------------------------------
+  Hierarchical Cell Count:                    0
+  Hierarchical Port Count:                    0
+  Leaf Cell Count:                          225
+  ---------------------------------------------
+
+
+  Area
+  ---------------------------------------------
+  Net Interconnect area:                   0.00
+  Total cell area:                       584.00
+  Design Area:                           584.00
+  ---------------------------------------------
+
+
+  Design Rule Violations
+  ---------------------------------------------
+  Total No. of Pins in Design:              795
+  Total DRC Cost:                          0.00
+  ---------------------------------------------
+
+1
